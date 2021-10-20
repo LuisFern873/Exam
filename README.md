@@ -14,9 +14,11 @@ C/C++
 
 Python
 
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
+1. Solidity
+2. Blockchain
+3. Node JS
+4. C++
+5. SQL
 
 ## Ejecutar el proyecto
 
