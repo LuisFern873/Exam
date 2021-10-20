@@ -14,17 +14,9 @@ C/C++
 
 Python
 
-⚙️ Things that I want to learn in the upcoming year
-
-Data structures and algorithms
-
-Solidity and smart contracts
-
-ROS for programming robotics I guess
-
-Etc...
-
-Competitive programming is stressful : )
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
 
 ## Ejecutar el proyecto
 
@@ -36,3 +28,4 @@ Después de ello, entra a nuestro proyecto y ejecútalo:
 ```
 npm start
 ```
+## PROGRESO
